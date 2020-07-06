@@ -61,7 +61,8 @@
         "threading": true
       },
       "ID": 1,
-      "description": "This malicious flow loads an apk file to external storage and installs this apk."
+      "description": "This malicious flow loads an apk file to external storage and installs this apk.",
+      "isNegative": false
     }
   ]
 }
